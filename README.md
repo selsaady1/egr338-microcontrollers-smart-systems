@@ -4,6 +4,8 @@
 
 ![C (XC8)](https://img.shields.io/badge/C_%28XC8%29-0a7?style=flat-square) ![MPLAB X IDE](https://img.shields.io/badge/MPLAB_X_IDE-0a7?style=flat-square) ![PICKit3](https://img.shields.io/badge/PICKit3-0a7?style=flat-square) ![PIC16F887](https://img.shields.io/badge/PIC16F887-0a7?style=flat-square) ![PIC16F917](https://img.shields.io/badge/PIC16F917-0a7?style=flat-square) ![MIKROE-2859 microcontroller](https://img.shields.io/badge/MIKROE--2859_microcontroller-0a7?style=flat-square) ![SPI](https://img.shields.io/badge/SPI-0a7?style=flat-square) ![UART](https://img.shields.io/badge/UART-0a7?style=flat-square) ![I2C](https://img.shields.io/badge/I2C-0a7?style=flat-square) ![MCP6S26 (GAINAMP2) PGA](https://img.shields.io/badge/MCP6S26_%28GAINAMP2%29_PGA-0a7?style=flat-square) 
 
+![Microcontrollers in Smart Systems](images/IMG_20240207_153908.jpg)
+
 ### 🌐 Live project page → **https://selsaady1.github.io/egr338-microcontrollers-smart-systems/**
 
 ## Overview
@@ -35,9 +37,16 @@ Embedded firmware was written in C and flashed to PIC16F887/PIC16F917 microcontr
 - 555 timer
 - Digilent Analog Discovery / oscilloscope
 
+## Gallery
+![figure](images/IMG_20240207_153912.jpg)
+![figure](images/IMG_20240207_154121_1_.jpg)
+![figure](images/IMG_20240207_155102.jpg)
+![figure](images/fig5.png)
+
 ## Repository Structure
 ```
 .gitignore
+.nojekyll
 LICENSE
 README.md
 docs/555_Pins_Value_Table.docx
@@ -54,8 +63,11 @@ images/IMG_20240207_153908.jpg
 images/IMG_20240207_153912.jpg
 images/IMG_20240207_154121_1_.jpg
 images/IMG_20240207_155102.jpg
+images/fig5.png
+images/fig6.png
 images/image0.jpeg
 images/image2.jpeg
+index.html
 src/Laboratory_3.19_Week_6_True_Correct_UART_Master_TX_PIC16F917_C-Code.do
 ```
 
